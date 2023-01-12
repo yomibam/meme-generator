@@ -96,3 +96,16 @@ main {
 .top {
   top: 0;
 }
+
+@media (max-width: 600px) {
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  .form--input {
+    height: 40px;
+  }
+  .form--button {
+    height: 40px;
+  }
+}
