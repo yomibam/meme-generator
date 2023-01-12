@@ -1,5 +1,5 @@
 import React from "react";
-import header_logo from "../images/dart.png";
+import header_logo from "../images/troll-face.png";
 
 export default function Header() {
   return (
